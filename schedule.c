@@ -1,8 +1,3 @@
-/* Fill in your Name and GNumber in the following two comment fields
- * Name: Aniketh Suresh
- * GNumber:	G01172069
- */
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
